@@ -10,3 +10,6 @@ This script will:
 Alternatively, I will provide a script that automates the Microsoft suggested solution of starting and restarting the machine 15 times
 These scripts will be automated to enable batch fixes of the corrupted machines. 
 This is an ongoing project, please review the code prior to running, the script is simple, I am not responsible for your machine.
+
+If you are able to add onto the code please open a pull request, I will monitor this github as long as the outage proceeds. 
+This is all done through volunteer work, I do not work for Crowdsrike or microsoft, if you find this helpful, consider following me. 
